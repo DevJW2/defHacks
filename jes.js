@@ -9,7 +9,7 @@ function myFunction(event) {
     }
 }
 
-var pane = $('#pane'),
+var pane = $('#templateCanvas'),
     box = $('#box'),
     w = pane.width() - box.width(),
     d = {},
