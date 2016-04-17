@@ -1,2 +1,0 @@
-# defHacks
-Javascript/Html Game
