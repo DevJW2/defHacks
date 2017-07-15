@@ -2,7 +2,6 @@
 Javascript/Html Game
 
 Statement: 
-A Speed-based game, where you have to press keys matching the random keys generated. 
-Music Helps. 
+A Speed-based game, where you have to press keys to match the random keys generated. 
 
-Developers: Jeffrey Weng, Vicky Chen; 
+Developers: Jeffrey Weng, Vicky Chen
