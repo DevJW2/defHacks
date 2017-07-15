@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            div {
+                background-image: url("nano.png");
+                background-repeat: no-repeat;
+                width: 1000px;
+                height: 1000px;
+                border: 1px solid #000000;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="myDiv">
+        </div>
+        
+        <script>
+            window.addEventListener("keydown", checkKeyPressed, false);
+ 
+            function checkKeyPressed(e) {
+            if (e.keyCode == "65") {
+                document.getElementById("myDiv").style.backgroundPosition = "400px 200px";
+            /*alert("The 'a' key is pressed.");*/
+            }
+        }
+            document.getElementById("myDiv").style.backgroundPosition = "center";
+        </script>
+    </body>
+</html>
