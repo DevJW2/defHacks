@@ -1,3 +1,3 @@
 # defHacks
-Javascript/Html Game
+Javascript/Html Game <br />
 Developers: Jeffrey Weng, Vicky Chen
